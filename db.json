@@ -1,0 +1,39 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Laura's course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus aliquam aspernatur aut autem blanditiis culpa debitis doloremque doloribus ea eligendi, eveniet excepturi hic iure libero maiores molestiae nobis, nostrum odio placeat praesentium quidem quo quod sequi unde vel?",
+      "creationDate": "12/12/12",
+      "durationMin": "1h 23m"
+    },
+    {
+      "id": 2,
+      "title": "Walter's course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus aliquam aspernatur aut autem blanditiis culpa debitis doloremque doloribus ea eligendi, eveniet excepturi hic iure libero maiores molestiae nobis, nostrum odio placeat praesentium quidem quo quod sequi unde vel?",
+      "creationDate": "12/12/12",
+      "durationMin": "1h 23m"
+    },
+    {
+      "id": 3,
+      "title": "Walter's course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus aliquam aspernatur aut autem blanditiis culpa debitis doloremque doloribus ea eligendi, eveniet excepturi hic iure libero maiores molestiae nobis, nostrum odio placeat praesentium quidem quo quod sequi unde vel?",
+      "creationDate": "12/12/12",
+      "durationMin": "1h 23m"
+    },
+    {
+      "id": 4,
+      "title": "Jesse's course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus aliquam aspernatur aut autem blanditiis culpa debitis doloremque doloribus ea eligendi, eveniet excepturi hic iure libero maiores molestiae nobis, nostrum odio placeat praesentium quidem quo quod sequi unde vel?",
+      "creationDate": "12/12/12",
+      "durationMin": "1h 23m"
+    },
+    {
+      "id": 5,
+      "title": "Irene's course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus aliquam aspernatur aut autem blanditiis culpa debitis doloremque doloribus ea eligendi, eveniet excepturi hic iure libero maiores molestiae nobis, nostrum odio placeat praesentium quidem quo quod sequi unde vel?",
+      "creationDate": "12/12/12",
+      "durationMin": "1h 23m"
+    }
+  ]
+}
