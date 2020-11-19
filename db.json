@@ -34,6 +34,20 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus aliquam aspernatur aut autem blanditiis culpa debitis doloremque doloribus ea eligendi, eveniet excepturi hic iure libero maiores molestiae nobis, nostrum odio placeat praesentium quidem quo quod sequi unde vel?",
       "creationDate": "12/12/12",
       "durationMin": "1h 23m"
+    },
+    {
+      "id": 6,
+      "title": "Cisco's course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus aliquam aspernatur aut autem blanditiis culpa debitis doloremque doloribus ea eligendi, eveniet excepturi hic iure libero maiores molestiae nobis, nostrum odio placeat praesentium quidem quo quod sequi unde vel?",
+      "creationDate": "12/12/12",
+      "durationMin": "1h 23m"
+    },
+    {
+      "id": 7,
+      "title": "Max course",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. A accusamus aliquam aspernatur aut autem blanditiis culpa debitis doloremque doloribus ea eligendi, eveniet excepturi hic iure libero maiores molestiae nobis, nostrum odio placeat praesentium quidem quo quod sequi unde vel?",
+      "creationDate": "12/12/12",
+      "durationMin": "1h 23m"
     }
   ]
 }
